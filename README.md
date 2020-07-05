@@ -31,6 +31,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [Hack the Box](https://hackthebox.eu): Máquinas remotas para practicar penetration testing y desafíos de varias categorias.
 - [Vulnhub](https://www.vulnhub.com/): Máquinas virtuales para descargar y practicar penetration testing.
 - [IO](http://io.netgarage.org/)
+- [Defend the web](https://defendtheweb.net/)
 
 ## Canales de YouTube
 
@@ -52,7 +53,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [MalwareTech - Life of a Malware Analyst](https://www.malwaretech.com/)
 - [Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/): Tutoriales de ARM assembly y explotación en ARM.
 
-## Listas de recursos
+## Otras listas de recursos
 
 - [The arsenal, armory & library by Maderas](https://pastebin.com/v8Mr2k95)
 - [Information Security related Mind Maps](https://www.amanhardikar.com/mindmaps.html#)
