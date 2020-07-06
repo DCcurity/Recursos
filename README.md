@@ -22,6 +22,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 
 - [CryptoHack](https://cryptohack.org)
 - [The Cryptopals Crypto Challenges](https://cryptopals.com/): ejercicios de programación que construyen conocimiento de criptografía desde lo esencial hasta algoritmos standard actuales.
+- [Boxentriq: Code breaking](https://www.boxentriq.com/code-breaking): Cifrados clásicos.
 
 ### Integral
 
