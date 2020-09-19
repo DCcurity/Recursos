@@ -10,6 +10,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [Ejercicios extra Fundación Sadosky](https://github.com/fundacion-sadosky/abopp): Acá están los ejercicios de la guía y más.
 - [Microcorruption: Embedded Security CTF](https://microcorruption.com/): Desafíos de reversing en sistemas embebidos.
 - [CS6265: Information Security Lab](https://tc.gts3.org/cs6265/2019/tut/index.html): Tutorial de reversing Georgia Tech Systems Software & Security Lab.
+- [ret2rop](https://www.ret2rop.com/): Format strings y bypaseo de protecciones.
 
 ### Web
 
