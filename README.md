@@ -17,6 +17,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [WebGoat](https://github.com/WebGoat/WebGoat): empieza con exploits muy sencillos, muy guiado
 - [JuiceShop](https://github.com/bkimminich/juice-shop)
 - [PortSwigger: Web Security Academy](https://portswigger.net/web-security)
+- [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): Lista estilo cheatsheet de herramientas y exploits para penetrar aplicaciones web.
 
 ### Redes
 
