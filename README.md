@@ -36,6 +36,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [Vulnhub](https://www.vulnhub.com/): Máquinas virtuales para descargar y practicar penetration testing.
 - [IO](http://io.netgarage.org/)
 - [Defend the web](https://defendtheweb.net/)
+- [lpeworkshop](https://github.com/sagishahar/lpeworkshop): Workshop de escalado de privilegios en Linux y Windows.
 
 ## Canales de YouTube
 
