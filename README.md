@@ -11,6 +11,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [Microcorruption: Embedded Security CTF](https://microcorruption.com/): Desafíos de reversing en sistemas embebidos.
 - [CS6265: Information Security Lab](https://tc.gts3.org/cs6265/2019/tut/index.html): Tutorial de reversing Georgia Tech Systems Software & Security Lab.
 - [ret2rop](https://www.ret2rop.com/): Format strings y bypaseo de protecciones.
+- [pwn.college](https://pwn.college/): Curso abierto de la Universidad Estatal de Arizona.
 
 ### Web
 
