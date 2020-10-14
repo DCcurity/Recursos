@@ -10,33 +10,40 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [Ejercicios extra Fundación Sadosky](https://github.com/fundacion-sadosky/abopp): Acá están los ejercicios de la guía y más.
 - [Microcorruption: Embedded Security CTF](https://microcorruption.com/): Desafíos de reversing en sistemas embebidos.
 - [CS6265: Information Security Lab](https://tc.gts3.org/cs6265/2019/tut/index.html): Tutorial de reversing Georgia Tech Systems Software & Security Lab.
-- [ret2rop](https://www.ret2rop.com/): Format strings y bypaseo de protecciones.
+- [ret2rop](https://www.ret2rop.com/): Format strings y bypassing de protecciones.
 - [pwn.college](https://pwn.college/): Curso abierto de la Universidad Estatal de Arizona.
 
 ### Web
 
-- [WebGoat](https://github.com/WebGoat/WebGoat): empieza con exploits muy sencillos, muy guiado
-- [JuiceShop](https://github.com/bkimminich/juice-shop)
-- [PortSwigger: Web Security Academy](https://portswigger.net/web-security)
+- [WebGoat](https://github.com/WebGoat/WebGoat): Aplicación web insegura que permite a desarrolladores y otres interesades probar las vulnerabilidades que se encuentran comúnmente en aplicaciones basadas en Java que utilizan componentes de código abierto comunes y populares.
+- [JuiceShop](https://github.com/bkimminich/juice-shop): Aplicación web insegura que incluye vulnerabilidades de todo el Top Ten de OWASP junto con muchas otras fallas de seguridad que se encuentran en aplicaciones del mundo real.
+- [PortSwigger: Web Security Academy](https://portswigger.net/web-security): Curso gratuito sobre seguridad web hecho por los creadores de Burp Suite.
 - [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): Lista estilo cheatsheet de herramientas y exploits para penetrar aplicaciones web.
 
 ### Redes
+- [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG): Curso de introductorio de Networking dictado por Philip Levis and Nick McKeown de la Universidad de Stanford. Incluye entrevistas a personas que trabajan en la industria como profesionales.
 
 ### Criptografía
 
-- [CryptoHack](https://cryptohack.org)
-- [The Cryptopals Crypto Challenges](https://cryptopals.com/): ejercicios de programación que construyen conocimiento de criptografía desde lo esencial hasta algoritmos standard actuales.
+- [CryptoHack](https://cryptohack.org): Plataforma para aprender criptografía moderna mediante ejercicios de programación y otros desafíos.
+- [The Cryptopals Crypto Challenges](https://cryptopals.com/): Ejercicios de programación que construyen conocimiento de criptografía desde lo esencial hasta algoritmos standard actuales.
 - [Boxentriq: Code breaking](https://www.boxentriq.com/code-breaking): Cifrados clásicos.
+
+### Malware
+- [Introducción al Análisis del Malware en Windows](https://miriadax.net/web/introduccion-al-analisis-del-malware-en-windows-3-edicion-): Introducción al análisis de malware en Windows en español (3.ª edición).
+- [Malware Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0): Curso práctico con herramientas sobre los fundamentos de reverse engineering (RE) de malware de Windows.
+- [CS6038/CS5138 Malware Analysis](https://class.malware.re/): Curso orientado a estudiantes de Cs de la Computación sobre conceptos de malware, análisis de malware y técnicas de reverse engineering en Black Box.
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis): Una lista de recursos y herramientas de análisis de malware.
 
 ### Integral
 
 - [TryHackMe](https://tryhackme.com/): Tutoriales y máquinas remotas para practicar penetration testing.
-- [Over the Wire](https://overthewire.org/wargames/): Tiene varios warwames, por ejemplo Bandit para convertirse en un ninja de la terminal y Natas para arrancar con seguridad Web.
-- [Hack This Site](https://hackthissite.org): varios juegos con niveles variables de dificultad, empiezan con desafíos muy simples para entender cómo está hecha una página web y progresan hacia seguridad de aplicaciones y análisis forense, entre otras cosas.
+- [Over the Wire](https://overthewire.org/wargames/): Gamificación por medio de Wargames para aprender conceptos de seguridad. 
+- [Hack This Site](https://hackthissite.org): Gamificación con niveles variables de dificultad. Se empieza con desafíos muy simples para entender cómo está hecha una página web y progresan hacia seguridad de aplicaciones y análisis forense, entre otras cosas.
 - [Hack the Box](https://hackthebox.eu): Máquinas remotas para practicar penetration testing y desafíos de varias categorias.
 - [Vulnhub](https://www.vulnhub.com/): Máquinas virtuales para descargar y practicar penetration testing.
-- [IO](http://io.netgarage.org/)
-- [Defend the web](https://defendtheweb.net/)
+- [IO](http://io.netgarage.org/): Wargame con niveles variables de dificultad. Cada uno de los desafíos tiene un bit SUID establecido.
+- [Defend the web](https://defendtheweb.net/): Gamificación con más de 60 niveles variables de dificultad.
 - [lpeworkshop](https://github.com/sagishahar/lpeworkshop): Workshop de escalado de privilegios en Linux y Windows.
 
 ## Canales de YouTube
@@ -51,8 +58,11 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 
 ### Charlas
 
-- [ekoparty security conference](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
+- [Ekoparty Security Conference](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
+- [DEF CON](https://www.youtube.com/user/DEFCONConference)
 - [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT)
+- [OffensiveCon](https://www.youtube.com/channel/UCMNvAtT4ak2azKNk6UlB1QQ)
+- [Virus Bulletin](https://www.youtube.com/user/virusbtn)
 
 ## Blogs
 
@@ -63,4 +73,5 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 
 - [The arsenal, armory & library by Maderas](https://pastebin.com/v8Mr2k95)
 - [Information Security related Mind Maps](https://www.amanhardikar.com/mindmaps.html#)
+- [KitPloit Newsletter](https://www.kitploit.com/)
 - [Links compilados por Elías K.](https://pastebin.com/WQhRYB59)
