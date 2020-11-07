@@ -12,6 +12,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [CS6265: Information Security Lab](https://tc.gts3.org/cs6265/2019/tut/index.html): Tutorial de reversing Georgia Tech Systems Software & Security Lab.
 - [ret2rop](https://www.ret2rop.com/): Format strings y bypassing de protecciones.
 - [pwn.college](https://pwn.college/): Curso abierto de la Universidad Estatal de Arizona.
+- [Nora's intro to x86_64 reversing](https://nora.codes/tutorial/an-intro-to-x86_64-reverse-engineering/): Introducción a reversing de de 64 bits en Linux utilizando radare2 y varias utilidades de Linux.
 
 ### Web
 
