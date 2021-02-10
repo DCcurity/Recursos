@@ -47,6 +47,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [IO](http://io.netgarage.org/): Wargame con niveles variables de dificultad. Cada uno de los desafíos tiene un bit SUID establecido.
 - [Defend the web](https://defendtheweb.net/): Gamificación con más de 60 niveles variables de dificultad.
 - [lpeworkshop](https://github.com/sagishahar/lpeworkshop): Workshop de escalado de privilegios en Linux y Windows.
+- [HatTricks Book](https://book.hacktricks.xyz/): Lista de metodologías, vulnerabilidades comunes y checklists para pentesting, reversing y privilege escalation.
 
 ## Canales de YouTube
 
