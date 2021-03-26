@@ -13,6 +13,7 @@ Compilados por DCcurity (grupo de estudiantes del Departamento de Computación, 
 - [ret2rop](https://www.ret2rop.com/): Format strings y bypassing de protecciones.
 - [pwn.college](https://pwn.college/): Curso abierto de la Universidad Estatal de Arizona.
 - [Nora's intro to x86_64 reversing](https://nora.codes/tutorial/an-intro-to-x86_64-reverse-engineering/): Introducción a reversing de 64 bits en Linux utilizando radare2 y varias utilidades de Linux.
+- [Nightmare](https://guyinatuxedo.github.io/index.html): Introducción a reversing/binary exploitation desde 0 basado en challenges estilo CTF.
 
 ### Web
 
